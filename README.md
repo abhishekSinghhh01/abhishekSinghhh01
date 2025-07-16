@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working as a front-end dev.<br>- 📚 I'm currently learning web dev technologies.<br>- ⚡ In my free time I like to explore new technologies.</p>
+<p align="left">- 🔭 LEARNER!.</p>
 
 ###
 
